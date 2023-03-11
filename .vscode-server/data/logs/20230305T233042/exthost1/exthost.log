@@ -1,0 +1,152 @@
+2023-03-05 23:30:47.903 [info] Extension host with pid 122 started
+2023-03-05 23:30:47.979 [info] Lock '/home/ragaa/.vscode-server/data/User/workspaceStorage/9ca1126bfe22fa730300ca7d4cb86f50/vscode.lock': Lock acquired.
+2023-03-05 23:30:48.082 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-05 23:30:48.087 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-03-05 23:30:48.088 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-05 23:30:48.433 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-05 23:30:48.433 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-05 23:30:49.446 [info] Eager extensions activated
+2023-03-05 23:30:49.446 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-05 23:30:49.447 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-05 23:30:49.448 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2023-03-05 23:30:50.306 [info] ExtensionService#_doActivateExtension batisteo.vscode-django, startup: false, activationEvent: 'onLanguage:python'
+2023-03-05 23:30:50.309 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.isort
+2023-03-05 23:30:50.311 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2023-03-05 23:30:50.312 [info] ExtensionService#_doActivateExtension njpwerner.autodocstring, startup: false, activationEvent: 'onLanguage:python'
+2023-03-05 23:30:50.313 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:python'
+2023-03-05 23:30:50.313 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+2023-03-05 23:30:52.261 [warning] Using default string since no string found in i18n bundle that has the key: You need to select a Python interpreter before you start debugging.
+
+Tip: click on "Select Interpreter" in the status bar.
+2023-03-05 23:30:52.261 [warning] Using default string since no string found in i18n bundle that has the key: The Python extension now includes Pylance to improve completions, code navigation, overall performance and much more! You can learn more about the update and learn how to change your language server [here](https://aka.ms/new-python-bundle).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2023-03-05 23:30:52.263 [warning] Using default string since no string found in i18n bundle that has the key: The Microsoft Python Language Server has reached end of life. Your language server has been set to the default for Python in VS Code, Pylance.
+
+If you'd like to change your language server, you can learn about how to do so [here](https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2021-release/#configuring-your-language-server).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2023-03-05 23:30:52.741 [warning] Using default string since no string found in i18n bundle that has the key: The security certificate used by server was not issued by a trusted certificate authority.
+This may indicate an attempt to steal your information.
+2023-03-05 23:30:52.741 [warning] Using default string since no string found in i18n bundle that has the key: The security certificate used by server has expired.
+This may indicate an attempt to steal your information.
+2023-03-05 23:30:52.742 [warning] Using default string since no string found in i18n bundle that has the key: Python is not installed. 
+Please download and install Python in order to execute cells in this notebook.
+2023-03-05 23:30:52.743 [warning] Using default string since no string found in i18n bundle that has the key: Please check the 'Jupyter' [output](command:jupyter.viewOutput) panel for further details./Do not translate the text "command:jupyter.viewOutput", that is a command Id that will be used by VS Code to open the output panel
+2023-03-05 23:30:52.743 [warning] Using default string since no string found in i18n bundle that has the key: If you have not installed xelatex (TeX) you will need to do so before you can export to PDF, for further instructions please look https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex. 
+To avoid installing xelatex (TeX) you might want to try exporting to HTML and using your browsers "Print to PDF" feature.
+2023-03-05 23:30:52.744 [warning] Using default string since no string found in i18n bundle that has the key: Jupyter Server Console
+2023-03-05 23:30:52.744 [warning] Using default string since no string found in i18n bundle that has the key: Operation not supported in web version of Jupyter Extension.
+2023-03-05 23:30:52.744 [warning] Using default string since no string found in i18n bundle that has the key: type to filter
+2023-03-05 23:30:52.744 [warning] Using default string since no string found in i18n bundle that has the key: Failed to install the Python Extension.
+2023-03-05 23:30:53.440 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2023-03-05 23:30:54.485 [info] ExtensionService#_doActivateExtension ms-python.isort, startup: false, activationEvent: 'onLanguage:python'
+2023-03-05 23:30:54.485 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-03-05 23:30:55.831 [info] ExtensionService#_doActivateExtension junstyle.vscode-django-support, startup: false, activationEvent: 'onLanguage:django-html'
+2023-03-05 23:30:55.834 [info] ExtensionService#_doActivateExtension monosans.djlint, startup: false, activationEvent: 'onLanguage:django-html'
+2023-03-05 23:30:55.835 [info] ExtensionService#_doActivateExtension tomusher.djhtml-vscode, startup: false, activationEvent: 'onLanguage:django-html'
+2023-03-05 23:30:58.667 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-03-05 23:30:58.669 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-03-05 23:30:58.671 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-03-05 23:31:07.067 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-03-05 23:31:07.117 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+    at onErrorNT (node:internal/child_process:478:16)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-03-05 23:31:15.725 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+    at onErrorNT (node:internal/child_process:478:16)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-03-05 23:31:25.968 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+    at onErrorNT (node:internal/child_process:478:16)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-03-05 23:31:58.203 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+    at onErrorNT (node:internal/child_process:478:16)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-03-05 23:32:51.272 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+    at onErrorNT (node:internal/child_process:478:16)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-03-05 23:32:52.012 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+    at onErrorNT (node:internal/child_process:478:16)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-03-05 23:32:53.537 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+    at onErrorNT (node:internal/child_process:478:16)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-03-05 23:32:55.135 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+    at onErrorNT (node:internal/child_process:478:16)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-03-05 23:33:05.668 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+    at onErrorNT (node:internal/child_process:478:16)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-03-05 23:33:10.054 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+    at onErrorNT (node:internal/child_process:478:16)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-03-05 23:33:29.151 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+    at onErrorNT (node:internal/child_process:478:16)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-03-05 23:33:55.873 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+    at onErrorNT (node:internal/child_process:478:16)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-03-05 23:34:07.580 [error] [vscode.emmet] provider FAILED
+2023-03-05 23:34:07.584 [error] TypeError: Cannot read properties of undefined (reading 'find')
+    at t.DefaultCompletionItemProvider.b (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/emmet/dist/node/emmetNodeMain.js:1:195760)
+    at t.DefaultCompletionItemProvider.provideCompletionItems (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/emmet/dist/node/emmetNodeMain.js:1:194279)
+    at J.provideCompletionItems (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:98:44972)
+    at /home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:98:65019
+    at ce.s (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:98:56987)
+    at ce.$provideCompletionItems (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:98:65006)
+    at c.N (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:11223)
+    at c.M (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:10941)
+    at c.H (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:9996)
+    at c.G (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:9015)
+    at /home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:7803
+    at f.invoke (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at g.deliver (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+    at h.fire (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+    at p.fire (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+    at /home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:16556
+    at f.invoke (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at g.deliver (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+    at h.fire (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+    at p.fire (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+    at t.E (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+    at /home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+    at f.invoke (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at g.deliver (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+    at h.fire (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+    at u.acceptChunk (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+    at /home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+    at f.invoke (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at g.deliver (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+    at h.fire (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+    at h.u (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28911)
+    at h.acceptFrame (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28717)
+    at f.l (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:27304)
+    at /home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:24627
+    at Socket.t (/home/ragaa/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+    at Socket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-03-05 23:34:07.588 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+    at onErrorNT (node:internal/child_process:478:16)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-03-05 23:34:35.204 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+    at onErrorNT (node:internal/child_process:478:16)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-03-05 23:38:42.267 [info] Extension host terminating: received terminate message from renderer
+2023-03-05 23:38:42.268 [info] Lock '/home/ragaa/.vscode-server/data/User/workspaceStorage/9ca1126bfe22fa730300ca7d4cb86f50/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-03-05 23:38:42.412 [info] Extension host with pid 122 exiting with code 0

@@ -1,0 +1,149 @@
+2023-02-19 22:30:42.608 [info] Extension host with pid 92 started
+2023-02-19 22:30:42.660 [info] Lock '/home/ragaa/.vscode-server/data/User/workspaceStorage/9ca1126bfe22fa730300ca7d4cb86f50/vscode.lock': Lock acquired.
+2023-02-19 22:30:42.833 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-02-19 22:30:42.838 [info] ExtensionService#_doActivateExtension batisteo.vscode-django, startup: false, activationEvent: 'onLanguage:django-html'
+2023-02-19 22:30:42.839 [info] ExtensionService#_doActivateExtension junstyle.vscode-django-support, startup: false, activationEvent: 'onLanguage:django-html'
+2023-02-19 22:30:42.840 [info] ExtensionService#_doActivateExtension monosans.djlint, startup: false, activationEvent: 'onLanguage:django-html'
+2023-02-19 22:30:42.840 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:django-html', root cause: tomusher.djhtml-vscode
+2023-02-19 22:30:42.841 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-02-19 22:30:43.883 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-02-19 22:30:43.886 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-02-19 22:30:44.311 [warning] Using default string since no string found in i18n bundle that has the key: You need to select a Python interpreter before you start debugging.
+
+Tip: click on "Select Interpreter" in the status bar.
+2023-02-19 22:30:44.311 [warning] Using default string since no string found in i18n bundle that has the key: The Python extension now includes Pylance to improve completions, code navigation, overall performance and much more! You can learn more about the update and learn how to change your language server [here](https://aka.ms/new-python-bundle).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2023-02-19 22:30:44.316 [warning] Using default string since no string found in i18n bundle that has the key: The Microsoft Python Language Server has reached end of life. Your language server has been set to the default for Python in VS Code, Pylance.
+
+If you'd like to change your language server, you can learn about how to do so [here](https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2021-release/#configuring-your-language-server).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2023-02-19 22:30:45.386 [info] ExtensionService#_doActivateExtension tomusher.djhtml-vscode, startup: false, activationEvent: 'onLanguage:django-html'
+2023-02-19 22:30:45.438 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-02-19 22:30:45.438 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-02-19 22:30:45.439 [info] Eager extensions activated
+2023-02-19 22:54:35.688 [info] ExtensionService#_doActivateExtension ms-python.isort, startup: false, activationEvent: 'onLanguage:python'
+2023-02-19 22:54:35.689 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-02-19 22:54:35.690 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2023-02-19 22:54:35.691 [info] ExtensionService#_doActivateExtension njpwerner.autodocstring, startup: false, activationEvent: 'onLanguage:python'
+2023-02-19 22:54:35.692 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:python'
+2023-02-19 22:54:35.692 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+2023-02-19 22:54:37.267 [warning] Using default string since no string found in i18n bundle that has the key: The security certificate used by server was not issued by a trusted certificate authority.
+This may indicate an attempt to steal your information.
+2023-02-19 22:54:37.267 [warning] Using default string since no string found in i18n bundle that has the key: The security certificate used by server has expired.
+This may indicate an attempt to steal your information.
+2023-02-19 22:54:37.268 [warning] Using default string since no string found in i18n bundle that has the key: Python is not installed. 
+Please download and install Python in order to execute cells in this notebook.
+2023-02-19 22:54:37.268 [warning] Using default string since no string found in i18n bundle that has the key: Please check the 'Jupyter' [output](command:jupyter.viewOutput) panel for further details./Do not translate the text "command:jupyter.viewOutput", that is a command Id that will be used by VS Code to open the output panel
+2023-02-19 22:54:37.268 [warning] Using default string since no string found in i18n bundle that has the key: If you have not installed xelatex (TeX) you will need to do so before you can export to PDF, for further instructions please look https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex. 
+To avoid installing xelatex (TeX) you might want to try exporting to HTML and using your browsers "Print to PDF" feature.
+2023-02-19 22:54:37.268 [warning] Using default string since no string found in i18n bundle that has the key: Jupyter Server Console
+2023-02-19 22:54:37.269 [warning] Using default string since no string found in i18n bundle that has the key: Operation not supported in web version of Jupyter Extension.
+2023-02-19 22:54:37.269 [warning] Using default string since no string found in i18n bundle that has the key: type to filter
+2023-02-19 22:54:37.269 [warning] Using default string since no string found in i18n bundle that has the key: Failed to install the Python Extension.
+2023-02-19 22:54:38.061 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2023-02-19 22:55:52.753 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-02-19 22:55:52.791 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:55:53.300 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:55:53.673 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:55:53.770 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:55:57.388 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:55:58.197 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:56:01.023 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:56:01.725 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:56:02.142 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:56:04.505 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:56:04.704 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:56:04.888 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:56:05.111 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:56:05.575 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:56:08.664 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:56:08.887 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:56:09.239 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:56:09.437 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:56:10.027 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:56:10.243 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:56:10.450 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:56:10.823 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:57:59.774 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:58:00.016 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:58:06.529 [error] Error: spawn /home/ragaa/venv/bin/python ENOENT
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:478:16)
+	at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-19 22:59:04.431 [info] Extension host terminating: received terminate message from renderer
+2023-02-19 22:59:04.432 [info] Lock '/home/ragaa/.vscode-server/data/User/workspaceStorage/9ca1126bfe22fa730300ca7d4cb86f50/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-02-19 22:59:04.586 [info] Extension host with pid 92 exiting with code 0

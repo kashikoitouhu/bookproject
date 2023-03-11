@@ -1,0 +1,9 @@
+{
+    "[django-html]": {
+        "editor.defaultFormatter": "junstyle.vscode-django-support"
+    },
+    "editor.inlineSuggest.enabled": true,
+    "[python]": {
+        "editor.formatOnType": true
+    }
+}

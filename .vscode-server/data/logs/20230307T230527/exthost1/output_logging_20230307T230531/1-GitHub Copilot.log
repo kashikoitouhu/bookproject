@@ -1,0 +1,183 @@
+[INFO] [ghostText] [2023-03-07T14:13:20.590Z] Cancelled after extractPrompt
+[INFO] [ghostText] [2023-03-07T14:13:20.708Z] Cancelled during debounce
+[INFO] [default] [2023-03-07T14:13:20.825Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [ghostText] [2023-03-07T14:13:21.074Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:13:21.280Z] Cancelled during debounce
+[INFO] [default] [2023-03-07T14:13:21.364Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-07T14:13:22.169Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 805 ms
+[INFO] [streamChoices] [2023-03-07T14:13:22.177Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-03-07T14:13:22.186Z] request done: headerRequestId: [12590996-e941-479d-a28b-10c3bc237427] model deployment ID: [x625ba4f78aa8]
+[INFO] [ghostText] [2023-03-07T14:13:23.174Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-03-07T14:13:23.290Z] Found inline suggestions locally
+[INFO] [default] [2023-03-07T14:13:32.845Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-07T14:13:33.283Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 438 ms
+[INFO] [streamChoices] [2023-03-07T14:13:33.285Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-03-07T14:13:33.285Z] request done: headerRequestId: [ef3e6e2f-ecdc-41f8-b981-54ee7be462b5] model deployment ID: [x625ba4f78aa8]
+[INFO] [default] [2023-03-07T14:13:37.077Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-07T14:13:37.443Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 365 ms
+[INFO] [streamChoices] [2023-03-07T14:13:37.448Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-03-07T14:13:37.449Z] request done: headerRequestId: [d59026a3-e82e-454e-aa0d-57f0f7174ca7] model deployment ID: [x625ba4f78aa8]
+[INFO] [default] [2023-03-07T14:13:53.115Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-07T14:13:53.520Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 405 ms
+[INFO] [streamChoices] [2023-03-07T14:13:53.521Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-03-07T14:13:53.521Z] request done: headerRequestId: [f65de078-e69a-4482-a8ca-d5641fa98906] model deployment ID: [x625ba4f78aa8]
+[INFO] [default] [2023-03-07T14:18:00.024Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-07T14:18:00.225Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [ghostText] [2023-03-07T14:18:01.052Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:18:01.229Z] Cancelled by contextual filter
+[INFO] [default] [2023-03-07T14:18:02.600Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [ghostText] [2023-03-07T14:18:02.749Z] Cancelled during debounce
+[INFO] [default] [2023-03-07T14:18:02.884Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [ghostText] [2023-03-07T14:18:03.160Z] Cancelled during debounce
+[INFO] [default] [2023-03-07T14:18:03.268Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-07T14:18:03.567Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-07T14:18:04.240Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-07T14:18:04.419Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-07T14:18:04.602Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-07T14:18:05.054Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 452 ms
+[INFO] [streamChoices] [2023-03-07T14:18:05.055Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-03-07T14:18:05.056Z] request done: headerRequestId: [de905daf-7b43-4b22-afd6-6934bcda1445] model deployment ID: [x625ba4f78aa8]
+[INFO] [default] [2023-03-07T14:18:32.173Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-07T14:18:32.617Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 444 ms
+[INFO] [streamChoices] [2023-03-07T14:18:32.619Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-03-07T14:18:32.620Z] request done: headerRequestId: [155b0a78-e3e4-4963-99a8-f0fd005d82df] model deployment ID: [x625ba4f78aa8]
+[INFO] [ghostText] [2023-03-07T14:18:33.549Z] Found inline suggestions locally
+[INFO] [default] [2023-03-07T14:18:50.857Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-07T14:18:51.244Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 386 ms
+[INFO] [streamChoices] [2023-03-07T14:18:51.246Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-03-07T14:18:51.246Z] request done: headerRequestId: [6454ba05-08ea-4a14-95f6-6758844ada6e] model deployment ID: [x625ba4f78aa8]
+[INFO] [default] [2023-03-07T14:19:42.745Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-07T14:19:58.238Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-07T14:19:58.784Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 545 ms
+[INFO] [streamChoices] [2023-03-07T14:19:58.792Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-03-07T14:19:58.804Z] request done: headerRequestId: [f4cb9a94-95b7-4a35-8782-e658d4c6caf4] model deployment ID: [x625ba4f78aa8]
+[INFO] [default] [2023-03-07T14:19:59.203Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-07T14:19:59.718Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 515 ms
+[INFO] [streamChoices] [2023-03-07T14:19:59.720Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-03-07T14:19:59.723Z] request done: headerRequestId: [6b98d058-5a9f-4d1d-9025-00f28ffe1a1e] model deployment ID: [x625ba4f78aa8]
+[INFO] [ghostText] [2023-03-07T14:20:00.741Z] Found inline suggestions locally
+[INFO] [default] [2023-03-07T14:20:01.318Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-07T14:20:02.395Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-07T14:20:05.846Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 3451 ms
+[INFO] [streamChoices] [2023-03-07T14:20:06.568Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-03-07T14:20:06.572Z] request done: headerRequestId: [a6c1c22e-42a8-4d55-bde8-943c244f9a6b] model deployment ID: [x625ba4f78aa8]
+[INFO] [default] [2023-03-07T14:20:08.162Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [ghostText] [2023-03-07T14:20:08.566Z] Cancelled after post processing completions
+[INFO] [default] [2023-03-07T14:21:28.488Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-07T14:21:34.643Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-07T14:21:34.990Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-07T14:21:35.266Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 275 ms
+[INFO] [streamChoices] [2023-03-07T14:21:35.268Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-03-07T14:21:35.268Z] request done: headerRequestId: [e7b4af0f-1e3d-49f1-8d7c-aaa82f290206] model deployment ID: [x625ba4f78aa8]
+[INFO] [ghostText] [2023-03-07T14:25:06.807Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:07.112Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:07.342Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:07.451Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:07.649Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:12.694Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:13.081Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:15.926Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:17.430Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:17.517Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:17.863Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:18.099Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:18.274Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:18.468Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:18.600Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:18.975Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:19.106Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:20.268Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:20.372Z] Cancelled after extractPrompt
+[INFO] [ghostText] [2023-03-07T14:25:20.484Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:21.082Z] Cancelled after extractPrompt
+[INFO] [ghostText] [2023-03-07T14:25:21.191Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:21.468Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:21.610Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:21.786Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:22.088Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:22.177Z] Cancelled after requestMultiline
+[INFO] [ghostText] [2023-03-07T14:25:22.301Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:22.637Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:22.737Z] Cancelled by contextual filter
+[INFO] [default] [2023-03-07T14:25:23.427Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [ghostText] [2023-03-07T14:25:23.571Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:23.785Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:23.903Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:24.049Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:24.173Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:24.349Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:24.476Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:24.945Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:25.128Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:25.309Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:25.478Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:25.590Z] Cancelled after requestMultiline
+[INFO] [ghostText] [2023-03-07T14:25:25.700Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:26.603Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:26.690Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:32.305Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:32.590Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:32.867Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:33.027Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:33.367Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:33.477Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:33.716Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:33.995Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:34.158Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:34.340Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:34.782Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:34.904Z] Cancelled after extractPrompt
+[INFO] [ghostText] [2023-03-07T14:25:35.010Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:35.235Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:35.532Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:36.183Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:36.342Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:36.470Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:36.561Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:36.729Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:37.012Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:37.934Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:38.023Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:38.299Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:38.488Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:38.653Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:38.781Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:38.888Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:39.091Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:39.169Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:39.304Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:39.415Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:39.910Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:40.088Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:40.271Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:41.083Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:41.248Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:41.430Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:41.888Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:41.995Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:42.210Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:42.387Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:42.579Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:42.833Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:42.950Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:43.609Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:43.725Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:43.915Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:44.007Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:44.207Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:44.299Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:44.384Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:46.469Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:46.551Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:46.638Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:46.728Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:46.850Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:47.173Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:47.324Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:47.526Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:53.327Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:53.509Z] Cancelled during debounce
+[INFO] [ghostText] [2023-03-07T14:25:53.603Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:53.786Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:54.483Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-03-07T14:25:54.686Z] Cancelled by contextual filter

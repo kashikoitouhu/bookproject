@@ -1,0 +1,6 @@
+[INFO] [ghostText] [2023-03-11T07:55:49.728Z] Cancelled after extractPrompt
+[INFO] [ghostText] [2023-03-11T07:55:49.736Z] Cancelled after extractPrompt
+[INFO] [default] [2023-03-11T07:55:49.863Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-11T07:55:50.749Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 884 ms
+[INFO] [streamChoices] [2023-03-11T07:55:50.764Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-03-11T07:55:50.766Z] request done: headerRequestId: [c9da741e-00c9-4adb-bfe4-ef3d6cff8ae4] model deployment ID: [x625ba4f78aa8]

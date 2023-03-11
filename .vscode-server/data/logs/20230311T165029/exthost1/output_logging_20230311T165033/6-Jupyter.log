@@ -1,0 +1,9 @@
+Visual Studio Code (1.76.0, wsl, desktop)
+Jupyter Extension Version: 2023.2.1000592019.
+Python Extension Version: 2023.4.0.
+Workspace folder /home/ragaa
+ユーザーは実験グループ 'jupyterTest' に属しています
+ユーザーは実験グループ 'jupyterEnhancedDataViewer' に属しています
+info 16:50:37.716: LSP Notebooks experiment is enabled
+info 16:50:41.093: Process Execution: > ~/venv/bin/python -m pip list
+> ~/venv/bin/python -m pip list

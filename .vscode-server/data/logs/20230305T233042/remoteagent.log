@@ -1,0 +1,42 @@
+2023-03-05 23:30:42.103 [info] 
+
+
+
+
+2023-03-05 23:30:42.137 [info] Extension host agent started.
+2023-03-05 23:30:42.473 [info] Deleted from disk junstyle.vscode-django-support /home/ragaa/.vscode-server/extensions/junstyle.vscode-django-support-1.0.22
+2023-03-05 23:30:42.474 [info] Deleted from disk ms-toolsai.jupyter-keymap /home/ragaa/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.0.0
+2023-03-05 23:30:42.474 [info] Deleted from disk ms-python.python /home/ragaa/.vscode-server/extensions/ms-python.python-2023.2.0
+2023-03-05 23:30:42.475 [info] Deleted from disk ms-python.vscode-pylance /home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.30
+2023-03-05 23:30:42.527 [info] [127.0.0.1][da4345f6][ManagementConnection] New connection established.
+2023-03-05 23:30:43.266 [info] [127.0.0.1][1d89cfac][ExtensionHostConnection] New connection established.
+2023-03-05 23:30:44.653 [info] [127.0.0.1][1d89cfac][ExtensionHostConnection] <122> Launched Extension Host Process.
+2023-03-05 23:30:49.607 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-03-05 23:30:49.608 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-03-05 23:30:49.609 [info] Getting Manifest... ms-toolsai.jupyter
+2023-03-05 23:30:49.609 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-03-05 23:30:50.329 [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+2023-03-05 23:30:50.335 [info] Extensions is already requested to install ms-ceintl.vscode-language-pack-ja
+2023-03-05 23:30:50.416 [info] Installing extension: ms-toolsai.jupyter-renderers
+2023-03-05 23:30:50.594 [info] Installing extension: ms-toolsai.jupyter
+2023-03-05 23:31:02.376 [info] Extension signature verification: ms-ceintl.vscode-language-pack-ja. Verification status: Verified.
+2023-03-05 23:31:02.380 [info] Extension signature verification: ms-toolsai.jupyter. Verification status: Verified.
+2023-03-05 23:31:02.381 [info] Extension signature verification: ms-toolsai.jupyter-renderers. Verification status: Verified.
+2023-03-05 23:31:03.419 [info] Extracted extension to /home/ragaa/.vscode-server/extensions/.8b87a6a8-dea1-471d-b787-2d02dada3eb3: ms-ceintl.vscode-language-pack-ja
+2023-03-05 23:31:03.436 [info] Renamed to /home/ragaa/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.76.2023030109
+2023-03-05 23:31:03.443 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ja
+2023-03-05 23:31:03.460 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2023-03-05 23:31:03.625 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-ja-1.75.2023020809
+2023-03-05 23:31:03.754 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja
+2023-03-05 23:31:04.795 [info] Extracted extension to /home/ragaa/.vscode-server/extensions/.1f6f72a7-1f83-430a-ab99-df4f834ab6ee: ms-toolsai.jupyter-renderers
+2023-03-05 23:31:04.806 [info] Renamed to /home/ragaa/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.15
+2023-03-05 23:31:04.811 [info] Extracting extension completed. ms-toolsai.jupyter-renderers
+2023-03-05 23:31:04.828 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-03-05 23:31:04.837 [info] Marked extension as uninstalled ms-toolsai.jupyter-renderers-1.0.14
+2023-03-05 23:31:05.339 [info] Extracted extension to /home/ragaa/.vscode-server/extensions/.7ba8db78-2ab4-405d-833a-397f19f2829d: ms-toolsai.jupyter
+2023-03-05 23:31:05.347 [info] Renamed to /home/ragaa/.vscode-server/extensions/ms-toolsai.jupyter-2023.2.1000592019
+2023-03-05 23:31:05.356 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-03-05 23:31:05.365 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-03-05 23:31:05.385 [info] Marked extension as uninstalled ms-toolsai.jupyter-2023.1.2010391206
+2023-03-05 23:38:42.270 [info] [127.0.0.1][da4345f6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-03-05 23:38:42.434 [info] [127.0.0.1][1d89cfac][ExtensionHostConnection] <122> Extension Host Process exited with code: 0, signal: null.

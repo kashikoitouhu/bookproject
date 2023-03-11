@@ -1,0 +1,86 @@
+[Info  - 10:40:14 PM] (339) Pylance language server 2023.2.10 (pyright 01758105) starting
+[Info  - 10:40:14 PM] (339) Server root directory: /home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist
+[Info  - 10:40:14 PM] (339) Starting service instance "ragaa"
+[Info  - 10:40:14 PM] (339) No configuration file found.
+[Info  - 10:40:14 PM] (339) No pyproject.toml file found.
+[Info  - 10:40:14 PM] (339) Setting pythonPath for service "ragaa": "/home/ragaa/venv/bin/python"
+[Warn  - 10:40:14 PM] (339) stubPath /home/ragaa/typings is not a valid directory.
+[Info  - 10:40:14 PM] (339) Assuming Python version 3.8
+[Info  - 10:40:14 PM] (339) Assuming Python platform Linux
+[Info  - 10:40:14 PM] (339) Searching for source files
+[Info  - 10:40:14 PM] (339) Auto-excluding /home/ragaa/project2/venv
+[Info  - 10:40:14 PM] (339) Auto-excluding /home/ragaa/project3/venv
+[Info  - 10:40:14 PM] (339) Auto-excluding /home/ragaa/venv
+[Info  - 10:40:14 PM] (339) Found 47 source files
+[Info  - 10:40:14 PM] (339) Background analysis(1) root directory: /home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist
+[Info  - 10:40:14 PM] (339) Background analysis(1) started
+[Info  - 10:40:15 PM] (339) Indexer background runner(2) root directory: /home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist (index)
+[Info  - 10:40:15 PM] (339) Indexing(2) started
+[Info  - 10:40:16 PM] (339) scanned(2) 41 files over 1 exec env
+[Info  - 10:40:17 PM] (339) indexed(2) 28 files over 1 exec env
+[Info  - 10:40:17 PM] (339) Indexing finished(2).
+[Info  - 11:06:31 PM] (339) Searching for source files
+[Info  - 11:06:31 PM] (339) Auto-excluding /home/ragaa/project2/venv
+[Info  - 11:06:31 PM] (339) Auto-excluding /home/ragaa/project3/venv
+[Info  - 11:06:31 PM] (339) Auto-excluding /home/ragaa/venv
+[Info  - 11:06:31 PM] (339) Found 48 source files
+Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+[Error - 11:32:45 PM] (339) IntelliCode exception: Error: failed to call OrtRun(). error code = 2.
+    at Object.e.run (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/vendor.bundle.js:2:56662)
+    at Object.e.run (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/vendor.bundle.js:2:46736)
+    at e.OnnxruntimeWebAssemblySessionHandler.run (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/vendor.bundle.js:2:49247)
+    at u.run (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/vendor.bundle.js:2:22506)
+    at _0x36d375.<computed>.getRecommendations (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/server.bundle.js:1:167794)
+    at _0x454a27.updateCompletionResults (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/server.bundle.js:1:178777)
+    at L.getCompletionsForPosition (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/pyright.bundle.js:1:359761)
+    at /home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/server.bundle.js:1:406470
+    at _0x25eea1.getWorkspaceCompletionsForPosition (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/server.bundle.js:1:406250)
+    at _0x25eea1.onCompletion (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/pyright.bundle.js:1:1042858)
+    at _0x25eea1._onCompletion (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/server.bundle.js:1:411150)
+Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+[Error - 11:32:50 PM] (339) IntelliCode exception: Error: failed to call OrtRun(). error code = 2.
+    at Object.e.run (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/vendor.bundle.js:2:56662)
+    at Object.e.run (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/vendor.bundle.js:2:46736)
+    at e.OnnxruntimeWebAssemblySessionHandler.run (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/vendor.bundle.js:2:49247)
+    at u.run (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/vendor.bundle.js:2:22506)
+    at _0x36d375.<computed>.getRecommendations (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/server.bundle.js:1:167794)
+    at _0x454a27.updateCompletionResults (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/server.bundle.js:1:178777)
+    at L.getCompletionsForPosition (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/pyright.bundle.js:1:359761)
+    at /home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/server.bundle.js:1:406470
+    at _0x25eea1.getWorkspaceCompletionsForPosition (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/server.bundle.js:1:406250)
+    at _0x25eea1.onCompletion (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/pyright.bundle.js:1:1042858)
+    at _0x25eea1._onCompletion (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/server.bundle.js:1:411150)
+Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+[Error - 11:32:51 PM] (339) IntelliCode exception: Error: failed to call OrtRun(). error code = 2.
+    at Object.e.run (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/vendor.bundle.js:2:56662)
+    at Object.e.run (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/vendor.bundle.js:2:46736)
+    at e.OnnxruntimeWebAssemblySessionHandler.run (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/vendor.bundle.js:2:49247)
+    at u.run (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/vendor.bundle.js:2:22506)
+    at _0x36d375.<computed>.getRecommendations (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/server.bundle.js:1:167794)
+    at _0x454a27.updateCompletionResults (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/server.bundle.js:1:178777)
+    at L.getCompletionsForPosition (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/pyright.bundle.js:1:359761)
+    at /home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/server.bundle.js:1:406470
+    at _0x25eea1.getWorkspaceCompletionsForPosition (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/server.bundle.js:1:406250)
+    at _0x25eea1.onCompletion (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/pyright.bundle.js:1:1042858)
+    at _0x25eea1._onCompletion (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/server.bundle.js:1:411150)
+Got invalid dimensions for input: input_batch:0 for the following indices
+ index: 1 Got: 102 Expected: 100
+ Please fix either the inputs or the model.
+[Error - 11:32:57 PM] (339) IntelliCode exception: Error: failed to call OrtRun(). error code = 2.
+    at Object.e.run (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/vendor.bundle.js:2:56662)
+    at Object.e.run (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/vendor.bundle.js:2:46736)
+    at e.OnnxruntimeWebAssemblySessionHandler.run (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/vendor.bundle.js:2:49247)
+    at u.run (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/vendor.bundle.js:2:22506)
+    at _0x36d375.<computed>.getRecommendations (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/server.bundle.js:1:167794)
+    at _0x454a27.updateCompletionResults (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/server.bundle.js:1:178777)
+    at L.getCompletionsForPosition (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/pyright.bundle.js:1:359761)
+    at /home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/server.bundle.js:1:406470
+    at _0x25eea1.getWorkspaceCompletionsForPosition (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/server.bundle.js:1:406250)
+    at _0x25eea1.onCompletion (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/pyright.bundle.js:1:1042858)
+    at _0x25eea1._onCompletion (/home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10/dist/server.bundle.js:1:411150)

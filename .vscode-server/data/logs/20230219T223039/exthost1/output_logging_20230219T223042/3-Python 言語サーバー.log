@@ -1,0 +1,32 @@
+[Info  - 10:30:46 PM] (161) Pylance language server 2023.2.30 (pyright dec6aa20) starting
+[Info  - 10:30:46 PM] (161) Server root directory: /home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 10:30:46 PM] (161) Starting service instance "ragaa"
+[Info  - 10:30:46 PM] (161) Starting service instance "<default>"
+[Info  - 10:30:46 PM] (161) No configuration file found.
+[Info  - 10:30:46 PM] (161) No pyproject.toml file found.
+[Info  - 10:30:46 PM] (161) Setting pythonPath for service "ragaa": "/home/ragaa/venv/bin/python"
+[Warn  - 10:30:46 PM] (161) stubPath /home/ragaa/typings is not a valid directory.
+[Info  - 10:30:46 PM] (161) Assuming Python version 3.8
+[Info  - 10:30:46 PM] (161) Assuming Python platform Linux
+[Info  - 10:30:46 PM] (161) Searching for source files
+[Info  - 10:30:46 PM] (161) Auto-excluding /home/ragaa/project2/venv
+[Info  - 10:30:46 PM] (161) Auto-excluding /home/ragaa/project3/venv
+[Info  - 10:30:46 PM] (161) Auto-excluding /home/ragaa/venv
+[Info  - 10:30:46 PM] (161) Found 48 source files
+[Info  - 10:30:46 PM] (161) No pyproject.toml file found.
+[Info  - 10:30:46 PM] (161) Setting pythonPath for service "<default>": "/home/ragaa/venv/bin/python"
+[Warn  - 10:30:46 PM] (161) stubPath typings is not a valid directory.
+[Info  - 10:30:46 PM] (161) Assuming Python version 3.8
+[Info  - 10:30:46 PM] (161) Assuming Python platform Linux
+[Info  - 10:30:46 PM] (161) Searching for source files
+[Info  - 10:30:46 PM] (161) No source files found.
+[Info  - 10:30:46 PM] (161) Background analysis(1) root directory: /home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 10:30:46 PM] (161) Background analysis(1) started
+[Info  - 10:30:46 PM] (161) Background analysis(2) root directory: /home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.30/dist
+[Info  - 10:30:46 PM] (161) Background analysis(2) started
+[Info  - 10:54:38 PM] (161) Indexer background runner(3) root directory: /home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.30/dist (index)
+[Info  - 10:54:38 PM] (161) Indexing(3) started
+[Info  - 10:54:38 PM] (161) scanned(3) 41 files over 1 exec env
+[Info  - 10:54:39 PM] (161) [BG(1)] Long operation: analyzing: /home/ragaa/project3/bookproject/book/views.py (2241ms)
+[Info  - 10:54:40 PM] (161) indexed(3) 28 files over 1 exec env
+[Info  - 10:54:40 PM] (161) Indexing finished(3).

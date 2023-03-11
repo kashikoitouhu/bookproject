@@ -1,0 +1,53 @@
+2023-03-05 22:59:21.891 [info] 
+
+
+
+
+2023-03-05 22:59:21.936 [info] Extension host agent started.
+2023-03-05 22:59:23.152 [info] [127.0.0.1][97ba7dd0][ExtensionHostConnection] New connection established.
+2023-03-05 22:59:23.392 [info] [127.0.0.1][f79a7c47][ManagementConnection] New connection established.
+2023-03-05 22:59:24.149 [info] [127.0.0.1][97ba7dd0][ExtensionHostConnection] <141> Launched Extension Host Process.
+2023-03-05 22:59:32.279 [info] Getting Manifest... junstyle.vscode-django-support
+2023-03-05 22:59:32.280 [info] Getting Manifest... ms-python.python
+2023-03-05 22:59:32.280 [info] Getting Manifest... ms-python.vscode-pylance
+2023-03-05 22:59:32.281 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-03-05 22:59:32.606 [info] Installing extension: junstyle.vscode-django-support
+2023-03-05 22:59:32.735 [info] Installing extension: ms-python.python
+2023-03-05 22:59:32.798 [info] Installing extension: ms-python.vscode-pylance
+2023-03-05 22:59:32.917 [info] Installing extension: ms-toolsai.jupyter-keymap
+2023-03-05 22:59:35.121 [info] Getting Manifest... ms-python.python
+2023-03-05 22:59:35.858 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-03-05 22:59:46.725 [info] Extension signature verification: junstyle.vscode-django-support. Verification status: Verified.
+2023-03-05 22:59:46.926 [info] Extracted extension to /home/ragaa/.vscode-server/extensions/.bc170012-5bf1-4eca-b36d-731355ccc13d: junstyle.vscode-django-support
+2023-03-05 22:59:46.940 [info] Renamed to /home/ragaa/.vscode-server/extensions/junstyle.vscode-django-support-1.0.23
+2023-03-05 22:59:46.943 [info] Extracting completed. junstyle.vscode-django-support
+2023-03-05 22:59:46.955 [info] Extension installed successfully: junstyle.vscode-django-support
+2023-03-05 22:59:47.044 [info] Marked extension as uninstalled junstyle.vscode-django-support-1.0.22
+2023-03-05 22:59:49.074 [info] Extension signature verification: ms-python.python. Verification status: Verified.
+2023-03-05 22:59:49.418 [info] Extension signature verification: ms-toolsai.jupyter-keymap. Verification status: Verified.
+2023-03-05 22:59:49.504 [info] Extracted extension to /home/ragaa/.vscode-server/extensions/.e7d7d29c-28f7-4385-985a-cccf02c3eeb2: ms-toolsai.jupyter-keymap
+2023-03-05 22:59:49.522 [info] Renamed to /home/ragaa/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.1.0
+2023-03-05 22:59:49.532 [info] Extracting completed. ms-toolsai.jupyter-keymap
+2023-03-05 22:59:49.556 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2023-03-05 22:59:49.744 [info] Marked extension as uninstalled ms-toolsai.jupyter-keymap-1.0.0
+2023-03-05 22:59:57.178 [info] Extension signature verification: ms-python.vscode-pylance. Verification status: Verified.
+2023-03-05 23:00:07.107 [info] Extracted extension to /home/ragaa/.vscode-server/extensions/.575a3c66-13ad-4c97-a302-2a1fff64a754: ms-python.python
+2023-03-05 23:00:07.126 [info] Renamed to /home/ragaa/.vscode-server/extensions/ms-python.python-2023.4.0
+2023-03-05 23:00:07.145 [info] Extracting completed. ms-python.python
+2023-03-05 23:00:07.173 [info] Extension installed successfully: ms-python.python
+2023-03-05 23:00:07.184 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-03-05 23:00:07.349 [info] Marked extension as uninstalled ms-python.python-2023.2.0
+2023-03-05 23:00:13.576 [info] Extracted extension to /home/ragaa/.vscode-server/extensions/.8644d04c-ed35-4e50-98ea-75825174993c: ms-python.vscode-pylance
+2023-03-05 23:00:13.754 [info] Renamed to /home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10
+2023-03-05 23:00:13.758 [info] Extracting completed. ms-python.vscode-pylance
+2023-03-05 23:00:13.872 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-03-05 23:00:13.974 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.2.30
+2023-03-05 23:18:21.632 [info] Getting Manifest... github.copilot
+2023-03-05 23:18:21.974 [info] Installing extension: github.copilot
+2023-03-05 23:18:32.185 [info] Extension signature verification: github.copilot. Verification status: Verified.
+2023-03-05 23:18:32.914 [info] Extracted extension to /home/ragaa/.vscode-server/extensions/.2a4e9b21-718e-43c1-b9d0-f5d4ba56f078: github.copilot
+2023-03-05 23:18:32.922 [info] Renamed to /home/ragaa/.vscode-server/extensions/github.copilot-1.77.9225
+2023-03-05 23:18:32.925 [info] Extracting completed. github.copilot
+2023-03-05 23:18:32.934 [info] Extension installed successfully: github.copilot
+2023-03-05 23:29:12.594 [info] [127.0.0.1][f79a7c47][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-03-05 23:29:12.909 [info] [127.0.0.1][97ba7dd0][ExtensionHostConnection] <141> Extension Host Process exited with code: 0, signal: null.

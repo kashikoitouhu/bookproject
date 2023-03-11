@@ -1,0 +1,26 @@
+2023-02-11 22:24:22.590 [info] 
+
+
+
+
+2023-02-11 22:24:22.633 [info] Extension host agent started.
+2023-02-11 22:24:22.975 [info] Deleted from disk ms-ceintl.vscode-language-pack-ja /home/ragaa/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.75.2023020109
+2023-02-11 22:24:22.990 [info] Deleted from disk ms-toolsai.jupyter /home/ragaa/.vscode-server/extensions/ms-toolsai.jupyter-2023.1.2000312134
+2023-02-11 22:24:23.464 [info] [127.0.0.1][7aa79f23][ManagementConnection] New connection established.
+2023-02-11 22:24:24.174 [info] [127.0.0.1][62232538][ExtensionHostConnection] New connection established.
+2023-02-11 22:24:24.200 [info] [127.0.0.1][62232538][ExtensionHostConnection] <141> Launched Extension Host Process.
+2023-02-11 22:24:29.450 [info] Getting Manifest... ms-python.vscode-pylance
+2023-02-11 22:24:29.819 [info] Installing extension: ms-python.vscode-pylance
+2023-02-11 22:24:30.920 [info] Getting Manifest... ms-python.python
+2023-02-11 22:24:35.306 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/ragaa/.vscode-server/data/logs/20230115T200530' failed: No such file or directory (EUNKNOWN) (path: /home/ragaa)
+2023-02-11 22:24:35.308 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/ragaa/.vscode-server/data/logs/20230115T200530' failed: No such file or directory
+2023-02-11 22:24:35.800 [info] Extension signature verification: ms-python.vscode-pylance. Verification status: Verified.
+2023-02-11 22:24:49.269 [info] Extracted extension to /home/ragaa/.vscode-server/extensions/.581c5a8d-f70f-4351-b992-c95ee34c3f8f: ms-python.vscode-pylance
+2023-02-11 22:24:49.284 [info] Renamed to /home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.20
+2023-02-11 22:24:49.291 [info] Extracting completed. ms-python.vscode-pylance
+2023-02-11 22:24:49.332 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-02-11 22:24:49.515 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.2.10
+2023-02-11 22:24:50.320 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/ragaa/.vscode-server/extensions/.581c5a8d-f70f-4351-b992-c95ee34c3f8f/dist/bundled/stubs/django-stubs/core/mail/backends' failed: No such file or directory (EUNKNOWN) (path: /home/ragaa)
+2023-02-11 22:24:50.321 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/ragaa/.vscode-server/extensions/.581c5a8d-f70f-4351-b992-c95ee34c3f8f/dist/bundled/stubs/django-stubs/core/mail/backends' failed: No such file or directory
+2023-02-11 23:39:25.303 [info] [127.0.0.1][7aa79f23][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-02-11 23:39:25.492 [info] [127.0.0.1][62232538][ExtensionHostConnection] <141> Extension Host Process exited with code: 0, signal: null.

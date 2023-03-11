@@ -1,0 +1,12 @@
+Visual Studio Code (1.75.1, wsl, desktop)
+Jupyter Extension Version: 2023.1.2010391206.
+Python Extension Version: 2023.2.0.
+Workspace folder /home/ragaa
+ユーザーは実験グループ 'jupyterTest' に属しています
+ユーザーは実験グループ 'jupyterEnhancedDataViewer' に属しています
+info 18:23:17.373: LSP Notebooks experiment is enabled
+info 18:23:17.939: Process Execution: > ~/venv/bin/python -m pip list
+> ~/venv/bin/python -m pip list
+info 19:44:06.101: Shutting down notebooks for 7b78fd0e-77ee-470e-bca2-850e08adbd5f
+info 19:44:06.101: Disposing HostJupyterExecution c75933c0-c8d3-42cb-b7e9-b04355d91ea1
+info 19:44:06.103: Disposing HostJupyterExecution c75933c0-c8d3-42cb-b7e9-b04355d91ea1

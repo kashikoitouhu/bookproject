@@ -1,0 +1,47 @@
+2023-03-11 16:50:29.893 [info] 
+
+
+
+
+2023-03-11 16:50:29.947 [info] Extension host agent started.
+2023-03-11 16:50:30.359 [info] [127.0.0.1][7096e363][ExtensionHostConnection] New connection established.
+2023-03-11 16:50:30.499 [info] [127.0.0.1][734212ed][ManagementConnection] New connection established.
+2023-03-11 16:50:31.689 [info] [127.0.0.1][7096e363][ExtensionHostConnection] <144> Launched Extension Host Process.
+2023-03-11 16:50:37.341 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-03-11 16:50:37.342 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-03-11 16:50:37.342 [info] Getting Manifest... ms-python.python
+2023-03-11 16:50:37.343 [info] Getting Manifest... ms-python.vscode-pylance
+2023-03-11 16:50:37.343 [info] Getting Manifest... ms-toolsai.jupyter
+2023-03-11 16:50:37.692 [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+2023-03-11 16:50:37.700 [info] Extensions is already requested to install ms-ceintl.vscode-language-pack-ja
+2023-03-11 16:50:37.787 [info] Installing extension: ms-python.python
+2023-03-11 16:50:37.866 [info] Installing extension: ms-python.vscode-pylance
+2023-03-11 16:50:37.887 [info] Installing extension: ms-toolsai.jupyter
+2023-03-11 16:50:39.911 [info] Getting Manifest... ms-python.python
+2023-03-11 16:50:40.494 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-03-11 16:50:44.018 [info] Extension signature verification: ms-ceintl.vscode-language-pack-ja. Verification status: Verified.
+2023-03-11 16:50:44.559 [info] Extracted extension to /home/ragaa/.vscode-server/extensions/.0c3f9fd0-0ff8-429d-a998-09a6a4d6f0b4: ms-ceintl.vscode-language-pack-ja
+2023-03-11 16:50:44.575 [info] Renamed to /home/ragaa/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.76.2023030809
+2023-03-11 16:50:44.579 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ja
+2023-03-11 16:50:44.593 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2023-03-11 16:50:44.787 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-ja-1.76.2023030109
+2023-03-11 16:50:44.976 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja
+2023-03-11 16:50:50.305 [info] Extension signature verification: ms-python.python. Verification status: Verified.
+2023-03-11 16:51:03.851 [info] Extension signature verification: ms-toolsai.jupyter. Verification status: Verified.
+2023-03-11 16:51:06.011 [info] Extension signature verification: ms-python.vscode-pylance. Verification status: Verified.
+2023-03-11 16:51:06.704 [info] Extracted extension to /home/ragaa/.vscode-server/extensions/.ded0fd43-a305-4956-933d-651654f03bf1: ms-python.python
+2023-03-11 16:51:06.916 [info] Extracted extension to /home/ragaa/.vscode-server/extensions/.61513c60-14b2-48f3-9376-cef06f4c8bdb: ms-toolsai.jupyter
+2023-03-11 16:51:07.069 [info] Renamed to /home/ragaa/.vscode-server/extensions/ms-python.python-2023.4.1
+2023-03-11 16:51:07.091 [info] Extracting extension completed. ms-python.python
+2023-03-11 16:51:07.133 [info] Renamed to /home/ragaa/.vscode-server/extensions/ms-toolsai.jupyter-2023.2.1200692131
+2023-03-11 16:51:07.148 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-03-11 16:51:07.198 [info] Extension installed successfully: ms-python.python
+2023-03-11 16:51:07.202 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-03-11 16:51:07.223 [info] Marked extension as uninstalled ms-python.python-2023.4.0
+2023-03-11 16:51:07.299 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-03-11 16:51:07.367 [info] Marked extension as uninstalled ms-toolsai.jupyter-2023.2.1000592019
+2023-03-11 16:51:16.908 [info] Extracted extension to /home/ragaa/.vscode-server/extensions/.6565b462-4b2e-4c7d-9584-8773fb7c8efc: ms-python.vscode-pylance
+2023-03-11 16:51:17.986 [info] Renamed to /home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.20
+2023-03-11 16:51:17.991 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-03-11 16:51:18.353 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-03-11 16:51:18.362 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.3.10

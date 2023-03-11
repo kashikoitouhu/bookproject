@@ -1,0 +1,66 @@
+[INFO] [default] [2023-03-05T14:31:00.587Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:31:01.517Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 928 ms
+[INFO] [streamChoices] [2023-03-05T14:31:01.528Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-03-05T14:31:01.529Z] request done: headerRequestId: [fea335d2-b609-460e-8341-cd8957600a96] model deployment ID: [x625ba4f78aa8]
+[INFO] [default] [2023-03-05T14:31:06.172Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:31:06.448Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 275 ms
+[INFO] [streamChoices] [2023-03-05T14:31:06.451Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-03-05T14:31:06.452Z] request done: headerRequestId: [d3c32522-84c6-45d8-a48a-24359658bdce] model deployment ID: [x625ba4f78aa8]
+[INFO] [default] [2023-03-05T14:31:07.119Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:31:07.624Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 503 ms
+[INFO] [streamChoices] [2023-03-05T14:31:07.628Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-03-05T14:31:07.632Z] request done: headerRequestId: [23ade3ca-3388-41bb-b4d2-4a4742759082] model deployment ID: [x625ba4f78aa8]
+[INFO] [ghostText] [2023-03-05T14:31:11.465Z] Found inline suggestions locally
+[INFO] [default] [2023-03-05T14:31:13.170Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:31:13.465Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 295 ms
+[INFO] [streamChoices] [2023-03-05T14:31:13.467Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-03-05T14:31:13.467Z] request done: headerRequestId: [dd93fcf2-40da-4262-bfab-8c12bbd79b56] model deployment ID: [x625ba4f78aa8]
+[INFO] [ghostText] [2023-03-05T14:31:15.737Z] Found inline suggestions locally
+[INFO] [default] [2023-03-05T14:31:17.020Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:31:17.323Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 302 ms
+[INFO] [streamChoices] [2023-03-05T14:31:17.325Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-03-05T14:31:17.325Z] request done: headerRequestId: [61b88333-4eb7-4dd5-8336-906491c265ec] model deployment ID: [x625ba4f78aa8]
+[INFO] [default] [2023-03-05T14:31:26.115Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:31:26.771Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 655 ms
+[INFO] [streamChoices] [2023-03-05T14:31:26.776Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-03-05T14:31:26.779Z] request done: headerRequestId: [3f795601-3ad7-4201-957d-a2ddba4a65db] model deployment ID: [x625ba4f78aa8]
+[INFO] [ghostText] [2023-03-05T14:31:27.112Z] Found inline suggestions locally
+[INFO] [solutions] [2023-03-05T14:31:33.175Z] prompt: {"prefix":"{% extends 'base.html' %}\n\n{% block title %}\n  書籍一覧\n{% endblock %}\n{% block h1 %}書籍一覧{% endblock h1 %}\n\n{% block content %}\n  {% for item in object_list %}\n    <div class=\"p-4 m-4 bg-light border border-success rounded\">\n      <h2 class=\"text-success\">{{ item.title }}</h2>\n      <h6>カテゴリ：{{ item.category }}</h6>\n      <div class=\"mt-3\">\n        <a href=\"{% url 'detail-book' item.pk %}\">詳細へ</a>\n        <","suffix":"</div>\n    </div>\n  {% endfor %}\n  {% include 'book/components/pagination.html' %}\n{% endblock %}\n","isFimEnabled":true,"promptElementRanges":[{"kind":"BeforeCursor","start":0,"end":406}]}
+[INFO] [default] [2023-03-05T14:31:33.177Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:31:57.192Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [ghostText] [2023-03-05T14:31:58.220Z] Found inline suggestions locally
+[INFO] [default] [2023-03-05T14:32:00.459Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [ghostText] [2023-03-05T14:32:01.936Z] Found inline suggestions locally
+[INFO] [default] [2023-03-05T14:32:02.277Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:32:21.046Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:32:36.431Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [solutions] [2023-03-05T14:32:42.584Z] prompt: {"prefix":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n{% extends 'base.html' %}\n\n{% block title %}レビュー投稿{% endblock  %}\n{% block h1 %}レビュー投稿{% endblock  %}\n{% block content %}\n<form method=\"post\" class=\"p-4 m-4 bg-light border border-success rounded form-group\">\n    {% csrf_token %}\n    <label>\n        対象書籍\n    </label>\n    <input class=\"form-control\" value=\"{{ book.title}}\" readonly>\n    <label>\n        タイトル\n    </label>\n    <input class=\"form-control\" name=\"title\">\n    <label>\n        本文\n    </label>\n    <textarea class=\"form-control\" name=\"text\" rows=\"3\"></textarea>\n    <label>\n        星の数\n    </label>\n    <select name=\"rate\" class=\"form-control\">\n        <option value=\"0\">0 (最低)</option>\n        <option value=\"1\">1</option>\n        <option value=\"2\">2</option>\n        <option value=\"3\" selected>3 (普通)</option>\n        <option value=\"4\">4</option>\n        <option value=\"5\">5 (最高)</option>\n","suffix":"</select>\n    <input type=\"hidden\" name='book' value=\"{{ book.id }}\">\n    <button type=\"submit\" class=\"btn btn-success mt-4\">投稿する</button>\n</form>\n{% endblock  %}\n\n","isFimEnabled":true,"promptElementRanges":[{"kind":"SimilarFile","start":0,"end":30},{"kind":"SimilarFile","start":30,"end":51},{"kind":"SimilarFile","start":51,"end":62},{"kind":"BeforeCursor","start":62,"end":921}]}
+[INFO] [default] [2023-03-05T14:32:42.585Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:32:51.368Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:32:53.792Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:32:55.222Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:33:01.109Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:33:02.340Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:33:07.860Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:33:08.681Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:33:09.465Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:33:12.264Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:33:12.983Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:33:14.584Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:33:16.552Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:33:17.517Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:33:18.259Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:33:19.076Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:33:20.213Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:33:20.523Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:33:20.703Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:33:20.934Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:33:24.057Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:33:55.983Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:33:56.478Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:33:57.719Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:33:58.330Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:33:58.596Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:34:08.429Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:34:35.450Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-03-05T14:35:48.821Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex

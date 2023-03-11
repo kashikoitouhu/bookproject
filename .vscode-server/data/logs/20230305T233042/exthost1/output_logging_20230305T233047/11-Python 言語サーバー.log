@@ -1,0 +1,40 @@
+[Info  - 11:31:00 PM] (298) Pylance language server 2023.3.10 (pyright 773a7cde) starting
+[Info  - 11:31:00 PM] (298) Server root directory: /home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10/dist
+[Info  - 11:31:00 PM] (298) Starting service instance "ragaa"
+[Info  - 11:31:00 PM] (298) Auto-indent enabled
+[Info  - 11:31:00 PM] (298) Starting service instance "<default>"
+[Info  - 11:31:00 PM] (298) No pyproject.toml file found.
+[Info  - 11:31:00 PM] (298) Setting pythonPath for service "<default>": "/home/ragaa/venv/bin/python"
+[Warn  - 11:31:00 PM] (298) stubPath typings is not a valid directory.
+[Info  - 11:31:00 PM] (298) Assuming Python version 3.8
+[Info  - 11:31:00 PM] (298) Assuming Python platform Linux
+[Info  - 11:31:00 PM] (298) Searching for source files
+[Info  - 11:31:00 PM] (298) No source files found.
+[Info  - 11:31:00 PM] (298) No configuration file found.
+[Info  - 11:31:00 PM] (298) No pyproject.toml file found.
+[Info  - 11:31:00 PM] (298) Setting pythonPath for service "ragaa": "/home/ragaa/venv/bin/python"
+[Warn  - 11:31:00 PM] (298) stubPath /home/ragaa/typings is not a valid directory.
+[Info  - 11:31:00 PM] (298) Assuming Python version 3.8
+[Info  - 11:31:00 PM] (298) Assuming Python platform Linux
+[Info  - 11:31:01 PM] (298) Searching for source files
+[Info  - 11:31:01 PM] (298) Auto-excluding /home/ragaa/project2/venv
+[Info  - 11:31:01 PM] (298) Auto-excluding /home/ragaa/project3/venv
+[Info  - 11:31:01 PM] (298) Auto-excluding /home/ragaa/venv
+[Info  - 11:31:01 PM] (298) Found 48 source files
+[Info  - 11:31:01 PM] (298) No pyproject.toml file found.
+[Info  - 11:31:01 PM] (298) Setting pythonPath for service "<default>": "/home/ragaa/venv/bin/python"
+[Warn  - 11:31:01 PM] (298) stubPath typings is not a valid directory.
+[Info  - 11:31:01 PM] (298) Assuming Python version 3.8
+[Info  - 11:31:01 PM] (298) Assuming Python platform Linux
+[Info  - 11:31:01 PM] (298) Searching for source files
+[Info  - 11:31:01 PM] (298) No source files found.
+[Info  - 11:31:01 PM] (298) Background analysis(1) root directory: /home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10/dist
+[Info  - 11:31:01 PM] (298) Background analysis(1) started
+[Info  - 11:31:01 PM] (298) Background analysis(2) root directory: /home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10/dist
+[Info  - 11:31:01 PM] (298) Background analysis(2) started
+[Info  - 11:31:02 PM] (298) Indexer background runner(3) root directory: /home/ragaa/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10/dist (index)
+[Info  - 11:31:02 PM] (298) Indexing(3) started
+[Info  - 11:31:03 PM] (298) scanned(3) 41 files over 1 exec env
+[Info  - 11:31:04 PM] (298) [BG(1)] Long operation: getSemanticTokens full at /home/ragaa/project3/bookproject/book/models.py (2246ms)
+[Info  - 11:31:05 PM] (298) indexed(3) 28 files over 1 exec env
+[Info  - 11:31:05 PM] (298) Indexing finished(3).
